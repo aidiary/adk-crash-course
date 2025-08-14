@@ -20,6 +20,8 @@
 - `8-stateful-multi-agent`: 状態を持つ複数エージェントの実装
 - `9-callbacks`: コールバックを使用したイベント処理
 - `10-sequential-agent`: 順次処理を行うエージェントの実装
+- `11-parallel-agent`: 並列処理を行うエージェントの実装
+- `12-loop-agent`: 繰り返し処理を行うエージェントの実装
 
 ## 必要要件
 
